@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adediran Sulyman</h1>
-<h3 align="center">I am a healthy, hardworking, Frontend enrginer who enjoys hands-on projects. Interested in opportunities that provide career growth and innovative solution preferment for company needs.</h3>
+<h3 align="center">I am a healthy, hardworking, Frontend engineer who enjoys hands-on projects. Interested in opportunities that provide career growth and innovative solution preferment for company needs.</h3>
 
 
 - 🔭 I’m currently working on **Ecommerce web APP **
